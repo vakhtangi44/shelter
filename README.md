@@ -1,1 +1,1 @@
-# [shelter](https://vakhtangi44.github.io/catphotoapp/main/index.html)
+# [shelter](https://vakhtangi44.github.io/shelter/pages/main/index.html)
